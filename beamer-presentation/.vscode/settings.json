@@ -1,0 +1,11 @@
+{
+  "latex-workshop.latex.external.build.command": "pdflatex",
+  "latex-workshop.latex.external.build.args": [
+    "-synctex=1",
+    "-interaction=nonstopmode",
+    "-file-line-error",
+    "-recorder",
+    "-shell-escape",
+    "main.tex"
+  ]
+}
