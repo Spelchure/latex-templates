@@ -2,5 +2,6 @@
 
 Various Latex Templates
 
-- [Beamer Presentation Template](beamer-presentation/README.md)
-- [Simple A4 Book Template](simple-a4/README.md)
+- [Beamer Presentation Template](beamer-presentation/main.tex)
+- [Simple A4 Book Template](simple-a4/main.tex)
+- [Cheatsheet Template](cheatsheet/main.tex)
